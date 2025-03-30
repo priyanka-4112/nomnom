@@ -10,9 +10,9 @@ NomNom is a mobile application designed for a café , allowing users to browse f
 
 
 ## Tech Stack
-- **Frontend**: Flutter (or React Native)
+- **Frontend**: Flutter/Java (or React Native)
 - **Backend**: Firebase (Authentication, Firestore, Storage)
-- **Payment**: Razorpay / Stripe (TBD)
+- **Payment**: Razorpay /UPI Intent (TBD)
 
 ## Installation
 
