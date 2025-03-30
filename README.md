@@ -7,7 +7,7 @@ NomNom is a mobile application designed for a café , allowing users to browse f
 - 🍽 **Menu Browsing**: View available food items
 - 🛒 **Cart & Checkout**: Add items to cart and proceed to payment
 - 💳 **Payment Integration**: Secure payment options
-- 📦 **Order Tracking**: Track your order status
+
 
 ## Tech Stack
 - **Frontend**: Flutter (or React Native)
